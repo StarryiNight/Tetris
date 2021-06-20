@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/russia/tetris/Block.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/russia/tetris/DbConnection.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/russia/tetris/Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/russia/tetris/Rank.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/russia/tetris/State.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/russia/tetris/TetrisBlock.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/russia/tetris/TetrisFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/russia/tetris/TetrisPanel.java" charset="GBK" />
+  </component>
+</project>
